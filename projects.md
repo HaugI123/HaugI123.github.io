@@ -16,7 +16,7 @@ A custom algorithmic trading engine currently in live testing.
 Implements trade execution logic, indicator analysis, risk management, and strategy modules.  
 Ongoing work includes adding a probabilistic/learning model to dynamically adjust parameters.
 
-**Repository:** https://github.com/HaugI123/customMql5
+**Repository:** [MQL5 Trading Bot Repository](https://github.com/HaugI123/customMql5)
 
 ---
 
@@ -26,7 +26,7 @@ Ongoing work includes adding a probabilistic/learning model to dynamically adjus
 A cross-platform mobile application that provides nutrition tracking, food logs, goals, and user profiles.  
 Designed as a complete full-stack project: backend logic, data handling, and mobile UI integration.
 
-**Repository:** https://github.com/HaugI123/theNutritionist
+**Repository:** [Nutritionist app repository](https://github.com/HaugI123/theNutritionist)
 
 ---
 
@@ -36,17 +36,17 @@ Designed as a complete full-stack project: backend logic, data handling, and mob
 A Discord automation tool built under an LLC collaboration.  
 I contributed the majority of the backend logic, including command routing, task automation, and API interfacing.
 
-**Repository:** https://github.com/Tyheman/ViewBot
+**Repository:** [Discord viewbot repository](https://github.com/Tyheman/ViewBot)
 
 ---
 
-## 💻 **GPU-Calc – Backend for Web GPU Calculator** *(Contributor)*
+## 💻 **GPU-Calc – Backend for Web GPU/Crypto miner Calculator** *(Contributor)*
 **Tech:** JavaScript, Backend APIs, Deployment, HTTPS**
 
-Server-side logic for a GPU performance calculator web app.  
+Server-side logic for a GPU/Crypto miner performance calculator web app.  
 Responsibilities included implementing backend functions, configuring HTTPS, domain setup, and deployment tasks.
 
-**Repository:** https://github.com/Tyheman/GPU-Calc
+**Repository:** [GPU-Calc Repository](https://github.com/Tyheman/GPU-Calc)
 
 ---
 
@@ -56,6 +56,6 @@ Responsibilities included implementing backend functions, configuring HTTPS, dom
 A Python project built for analyzing network relationships using graph data structures.  
 Includes parsing, relationship mapping, edge counting, and visualization logic.
 
-**Repository:** https://github.com/HaugI123/pyNetworkChecker
+**Repository:** [Network Graph Repository](https://github.com/HaugI123/pyNetworkChecker)
 
 ---
