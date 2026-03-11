@@ -1,0 +1,15 @@
+title: "Izzac Haug"
+description: "Backend Developer | Software Engineer | Data & ML Enthusiast"
+theme: jekyll-theme-minimal
+
+show_downloads: false
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contacts
