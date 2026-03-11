@@ -16,7 +16,7 @@ A custom algorithmic trading engine currently in live testing.
 Implements trade execution logic, indicator analysis, risk management, and strategy modules.  
 Ongoing work includes adding a probabilistic/learning model to dynamically adjust parameters.
 
-**Repository:** [MQL5 Trading Bot Repository](https://github.com/HaugI123/customMql5)
+**Repository:** [MQL5 trading bot repository](https://github.com/HaugI123/customMql5)
 
 ---
 
@@ -46,7 +46,7 @@ I contributed the majority of the backend logic, including command routing, task
 Server-side logic for a GPU/Crypto miner performance calculator web app.  
 Responsibilities included implementing backend functions, configuring HTTPS, domain setup, and deployment tasks.
 
-**Repository:** [GPU-Calc Repository](https://github.com/Tyheman/GPU-Calc)
+**Repository:** [GPU-Calc repository](https://github.com/Tyheman/GPU-Calc)
 
 ---
 
@@ -56,6 +56,6 @@ Responsibilities included implementing backend functions, configuring HTTPS, dom
 A Python project built for analyzing network relationships using graph data structures.  
 Includes parsing, relationship mapping, edge counting, and visualization logic.
 
-**Repository:** [Network Graph Repository](https://github.com/HaugI123/pyNetworkChecker)
+**Repository:** [Network graph repository](https://github.com/HaugI123/pyNetworkChecker)
 
 ---
