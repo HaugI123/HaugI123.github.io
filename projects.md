@@ -9,10 +9,10 @@ Below are my major development projects, including backend systems, mobile apps,
 
 ---
 
-## 🚀 **customMQL5 – Algorithmic Trading Engine (WIP)**
+## 🚀 **customMQL5 – Algorithmic Trading Engine**
 **Tech:** MQL5, C++-style structures, market data processing  
 
-A custom algorithmic trading engine currently in live testing.  
+A custom algorithmic trading engine currently in live testing. Version 1 complete - Feature updates currently in progress.  
 Implements trade execution logic, indicator analysis, risk management, and strategy modules.  
 Ongoing work includes adding a probabilistic/learning model to dynamically adjust parameters.
 
@@ -20,7 +20,7 @@ Ongoing work includes adding a probabilistic/learning model to dynamically adjus
 
 ---
 
-## 📱 **theNutritionist – Full-Stack Mobile Nutrition App**
+## 📱 **theNutritionist – Full-Stack Mobile Nutrition App (WIP)**
 **Tech:** JavaScript, Expo/React Native, Backend APIs, Database Integration  
 
 A cross-platform mobile application that provides nutrition tracking, food logs, goals, and user profiles.  
@@ -33,7 +33,7 @@ Designed as a complete full-stack project: backend logic, data handling, and mob
 ## 🤖 **ViewBot – Discord Automation Bot** *(Contributor)*
 **Tech:** Python, Discord API, Automation  
 
-A Discord automation tool built under an LLC collaboration.  
+A Discord automation tool built under an LLC collaboration. *Strictly for testing purposes and working with Python libraries; not used for breaking any website TOS*  
 I contributed the majority of the backend logic, including command routing, task automation, and API interfacing.
 
 **Repository:** [Discord viewbot repository](https://github.com/Tyheman/ViewBot)
