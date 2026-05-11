@@ -27,6 +27,6 @@ A few highlights — see full details on the **Projects** page:
 - **theNutritionist** – Full-stack nutrition mobile app  
 - **ViewBot** – Discord automation bot (Contributor)  
 - **GPU-Calc** – Backend + deployment for GPU/crypto mining performance calculator website  
-- **Network Graph Analyzer** – Python network call and analysis project  
+- **Python Email Sender** – Automatic Python SMTP bulk sender
 
 Explore more on the **Projects** tab.

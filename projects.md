@@ -26,8 +26,7 @@ Ongoing work includes adding a probabilistic/learning model to dynamically adjus
 A cross-platform mobile application that provides nutrition tracking, food logs, goals, and user profiles.  
 Designed as a complete full-stack project: backend logic, data handling, and mobile UI integration.
 
-**Repository:** [Nutritionist app repository](https://github.com/HaugI123/theNutritionist)
-
+**Repository:** COMING SOON
 ---
 
 ## 🤖 **ViewBot – Discord Automation Bot** *(Contributor)*
@@ -36,7 +35,7 @@ Designed as a complete full-stack project: backend logic, data handling, and mob
 A Discord automation tool built under an LLC collaboration. *Strictly for testing purposes and working with Python libraries; not used for breaking any website TOS*  
 I contributed the majority of the backend logic, including command routing, task automation, and API interfacing.
 
-**Repository:** [Discord viewbot repository](https://github.com/Tyheman/ViewBot)
+**Repository:** [Discord viewbot repository](https://github.com/HaugI123/ViewBot-Public)
 
 ---
 
@@ -46,16 +45,16 @@ I contributed the majority of the backend logic, including command routing, task
 Server-side logic for a GPU/Crypto miner performance calculator web app.  
 Responsibilities included implementing backend functions, configuring HTTPS, domain setup, and deployment tasks.
 
-**Repository:** [GPU-Calc repository](https://github.com/Tyheman/GPU-Calc)
+**Repository:** [GPU-Calc repository](https://github.com/HaugI123/GPU-CalcPublic)
 
 ---
 
-## 📊 **Network Graph Analyzer – Data Project**
-**Tech:** Python, Graph Processing, CSV/JSON Parsing**
+## 📊 **Python Email Sender – Python Project**
+**Tech:** Python, SMTP, CSV Procession, Environment Variables**
 
-A Python project built for analyzing network relationships using graph data structures.  
-Includes parsing, relationship mapping, edge counting, and visualization logic.
+A Python-based email automation tool for sending customizable bulk HTML emails through SMTP servers.
+The project includes CSV-based recipient management, reusable email templates, environment-variable configuration, STARTTLS support, rate limiting, and local SMTP debugging for safe testing and development.
 
-**Repository:** [Network graph repository](https://github.com/HaugI123/pyNetworkChecker)
+**Repository:** [Network graph repository](https://github.com/HaugI123/python-email)
 
 ---
