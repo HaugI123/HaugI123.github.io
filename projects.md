@@ -55,6 +55,6 @@ Responsibilities included implementing backend functions, configuring HTTPS, dom
 A Python-based email automation tool for sending customizable bulk HTML emails through SMTP servers.
 The project includes CSV-based recipient management, reusable email templates, environment-variable configuration, STARTTLS support, rate limiting, and local SMTP debugging for safe testing and development.
 
-**Repository:** [Network graph repository](https://github.com/HaugI123/python-email)
+**Repository:** [Email Sender](https://github.com/HaugI123/python-email)
 
 ---
