@@ -24,7 +24,7 @@ My strengths lie in backend architecture, automation, data processing, and desig
 - Data-driven development  
 
 ## 🏢 **LLC Work**
-I also collaborate within a small development LLC where I architect backend systems, handle authentication workflows, and integrate front-end features with server-side logic.
+I also collaborated within a small development LLC where I architect backend systems, handle authentication workflows, and integrate front-end features with server-side logic.
 
 I enjoy building things that actually get used by real people.
 
