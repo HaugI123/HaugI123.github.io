@@ -15,7 +15,7 @@ I enjoy collaborating in small development teams, and designing efficient backen
 
 ## 🔗 **Links**
 - **GitHub:** https://github.com/HaugI123  
-- **Resume:** (Coming soon)  
+- **Resume:** <a href="resume/Resume1.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>  
 - **Email:** izzac.haug@protonmail.com  
 
 ---
