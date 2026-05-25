@@ -9,6 +9,6 @@ Feel free to reach out if you'd like to talk about software engineering, backend
 
 - **Email:** izzac.haug@protonmail.com 
 - **GitHub:** https://github.com/HaugI123  
-- **Resume:** <a href="Resume.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>
+- **Resume:** [View Resume](./Resume.pdf)
 
 Looking forward to connecting!
