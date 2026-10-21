@@ -7,6 +7,48 @@ title: Projects
 
 Below are my major development projects, including backend systems, mobile apps, automation tools, and data-focused work.
 
+
+---
+
+## 🗂️ SecretaryAI — Full-Stack Capstone Project
+
+**Tech:** JavaScript, Node.js, React, Vite, OCR, Ollama, APIs
+
+**Status:** In Progress · Team Project
+
+A full-stack application designed to help small-business tax agencies organize and streamline document workflows, with an emphasis on accessibility from mobile devices.
+
+My contributions include:
+- Developing and refining backend API routes and application logic.
+- Contributing to OCR-based document recognition and document-scanning functionality.
+- Assisting with database implementation and integration between frontend and backend components.
+- Helping test and troubleshoot an Ollama-powered chatbot and conducting ongoing backend security reviews.
+
+*This is a private team project; implementation details and source code are not publicly available.*
+
+---
+
+## 🖥️ Custom Shell — Python Command-Line Interpreter
+
+**Tech:** Python, Linux, Git
+
+**Status:** In Progress
+
+A custom shell built in Python, based on a staged shell-development workflow. The project has progressed through 76 stages covering command execution, parsing, shell features, and interactive functionality.
+
+Implemented features include:
+- Built-in commands and external program execution with PATH lookup.
+- Command parsing, quoting, and environment-variable expansion.
+- Input/output redirection and command pipelines.
+- Command and file completion, including programmable completion.
+- Background job management and persistent command history.
+- Shell-variable storage and expansion.
+
+The project is still being extended, with brace expansion and empty-variable expansion among the remaining specification stages. I plan to continue developing it with additional custom built-in commands and functionality, and checking and fixing bugs. 
+
+**Repository:** [Custom Shell](https://github.com/HaugI123/codecrafters-shell-python)
+
+
 ---
 
 ## 🚀 **customMQL5 – Algorithmic Trading Engine**
@@ -27,15 +69,6 @@ A cross-platform mobile application that provides nutrition tracking, food logs,
 Designed as a complete full-stack project: backend logic, data handling, and mobile UI integration.
 
 **Repository:** COMING SOON
----
-
-## 🤖 **ViewBot – Discord Automation Bot** *(Contributor)*
-**Tech:** Python, Discord API, Automation  
-
-A Discord automation tool built under an LLC collaboration. *Strictly for testing purposes and working with Python libraries; not used for breaking any website TOS*  
-I contributed the majority of the backend logic, including command routing, task automation, and API interfacing.
-
-**Repository:** [Discord viewbot repository](https://github.com/HaugI123/ViewBot-Public)
 
 ---
 
@@ -45,16 +78,6 @@ I contributed the majority of the backend logic, including command routing, task
 Server-side logic for a GPU/Crypto miner performance calculator web app.  
 Responsibilities included implementing backend functions, configuring HTTPS, domain setup, and deployment tasks.
 
-**Repository:** [GPU-Calc repository](https://github.com/HaugI123/GPU-CalcPublic)
-
----
-
-## 📊 **Python Email Sender – Python Project**
-**Tech:** Python, SMTP, CSV Procession, Environment Variables**
-
-A Python-based email automation tool for sending customizable bulk HTML emails through SMTP servers.
-The project includes CSV-based recipient management, reusable email templates, environment-variable configuration, STARTTLS support, rate limiting, and local SMTP debugging for safe testing and development.
-
-**Repository:** [Email Sender](https://github.com/HaugI123/python-email)
+*This is a private team project; implementation details and source code are not publicly available.*
 
 ---
