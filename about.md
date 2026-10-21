@@ -30,3 +30,4 @@ I enjoy building software that helps me learn more about how computers function,
 ---
 
 If you'd like to learn more about my work, visit the **Projects** page.
+I also started creating YouTube videos explaining my thought processes and workflow. You can check it out here: https://www.youtube.com/playlist?list=PLa6MSwpv0SNw
