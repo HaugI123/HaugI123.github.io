@@ -1,9 +1,3 @@
-
----
-layout: default
-title: About
----
-
 # **About Me**
 
 I'm **Izzac Haug**, a senior Computer Science student focused on backend development and software engineering. I enjoy digging into most computer related fields.
