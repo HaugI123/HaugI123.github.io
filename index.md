@@ -22,10 +22,10 @@ My projects involve API development, data processing, application integration, a
 ## 📌 Featured Projects
 A few highlights — see full details on the **Projects** page:
 
-- **customMQL5** – Algorithmic trading engine with future ML integration, strategy, and risk management  
-- **theNutritionist** – Full-stack nutrition mobile app  
 - **SecretaryAI** –  Full-stack capstone project for document workflow automation
-- **GPU-Calc** – Backend + deployment for GPU/crypto mining performance calculator website
 - **Custom Shell** – Python command-line interpreter with command parsing, pipelines, redirection, and interactive features
+- **customMQL5** – Algorithmic trading engine with future ML integration, strategy, and risk management  
+- **theNutritionist** – Full-stack nutrition mobile app
+- **GPU-Calc** – Backend + deployment for GPU/crypto mining performance calculator website
 
 Explore more on the **Projects** tab.
