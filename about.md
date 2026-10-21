@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: About
@@ -5,29 +6,33 @@ title: About
 
 # **About Me**
 
-I'm **Izzac Haug**, a senior Computer Science student and backend-focused developer.  
-My strengths lie in backend architecture, automation, data processing, and designing efficient systems that solve real-world problems.
+I'm **Izzac Haug**, a senior Computer Science student focused on backend development and software engineering. I enjoy designing and building systems that solve practical problems, from command-line tools and backend services to full-stack applications.
+
+My experience includes API development, automation, data processing, application integration, and server-side logic. I’m particularly interested in building maintainable software and understanding how systems work beneath the surface.
 
 ## 🔧 **Technical Focus**
-- **Backend Development** (Python, Java, Node.js, Expo/React Native backend)
-- **Data Engineering & Analysis**
-- **Automation & Bots**
-- **Algorithmic Systems**
-- **Mobile App Infrastructure**
-- **Deployment & DevOps (light experience)**
+
+- **Backend Development** — API design, server-side logic, and application integration
+- **Systems Programming** — Command-line tools, process execution, and shell functionality
+- **Automation & Data Processing** — Automating workflows and handling structured data
+- **Algorithmic Systems** — Modular logic, strategy implementation, and risk management
+- **Full-Stack Development** — Connecting frontend interfaces with backend services and databases
+- **Deployment & DevOps** — HTTPS configuration, domain setup, and deployment infrastructure
 
 ## 🧠 **Interests**
-- Backend engineering  
-- Machine learning (applied, probabilistic models, reinforcement learning concepts)  
-- Real-time systems  
-- Algorithmic trading  
-- Data-driven development  
 
-## 🏢 **LLC Work**
-I also collaborated within a small development LLC where I would architect backend systems, handle authentication workflows, and integrate front-end features with server-side logic.
+- Backend engineering and software architecture
+- Systems programming and command-line environments
+- Machine learning, including probabilistic models and reinforcement learning concepts
+- Real-time systems and data-driven development
+- Algorithmic trading and automation
 
-I enjoy building things that actually get used by real people.
+## 🏢 **Collaborative Development Experience**
+
+I have collaborated on projects within a small development LLC, contributing to backend architecture, authentication workflows, and integration between frontend features and server-side logic. These experiences have helped me develop a broader understanding of how individual components work together in a complete application.
+
+I enjoy building software that solves real problems and can be extended as requirements evolve.
 
 ---
 
-If you'd like to know more about specific projects, visit the **Projects** page.
+If you'd like to learn more about my work, visit the **Projects** page.
