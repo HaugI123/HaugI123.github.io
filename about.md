@@ -6,7 +6,7 @@ title: About
 
 # **About Me**
 
-I'm **Izzac Haug**, a senior Computer Science student focused on backend development and software engineering. I enjoy designing and building systems that solve practical problems, from command-line tools and backend services to full-stack applications.
+I'm **Izzac Haug**, a senior Computer Science student focused on backend development and software engineering. I enjoy digging into most computer related fields.
 
 My experience includes API development, automation, data processing, application integration, and server-side logic. I’m particularly interested in building maintainable software and understanding how systems work beneath the surface.
 
