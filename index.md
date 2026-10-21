@@ -3,13 +3,12 @@ layout: default
 title: Home
 ---
 
-# **Izzac Haug**
-### Backend Developer • Software Engineer • Data & ML Enthusiast
+# Izzac Haug
+### Backend Developer • Software Engineer
 
-Welcome! I'm a senior Computer Science student with a strong interest in backend systems, data engineering, algorithmic trading, and applied machine learning.  
-I have experience building production-level backend systems, automation tools, REST APIs, and mobile app infrastructure.
+I'm a senior Computer Science student focused on backend development, systems programming, and automation. I enjoy building software that solves practical problems, from command-line tools and backend services to full-stack applications.
 
-I enjoy collaborating in small development teams, and designing efficient backend architectures.
+My projects involve API development, data processing, application integration, and designing maintainable software systems.
 
 ---
 
@@ -23,10 +22,10 @@ I enjoy collaborating in small development teams, and designing efficient backen
 ## 📌 Featured Projects
 A few highlights — see full details on the **Projects** page:
 
-- **customMQL5** – Algorithmic trading engine with future ML integration  
+- **customMQL5** – Algorithmic trading engine with future ML integration, strategy, and risk management  
 - **theNutritionist** – Full-stack nutrition mobile app  
-- **ViewBot** – Discord automation bot (Contributor)  
-- **GPU-Calc** – Backend + deployment for GPU/crypto mining performance calculator website  
-- **Python Email Sender** – Automatic Python SMTP bulk sender
+- **SecretaryAI** –  Full-stack capstone project for document workflow automation
+- **GPU-Calc** – Backend + deployment for GPU/crypto mining performance calculator website
+- **Custom Shell** – Python command-line interpreter with command parsing, pipelines, redirection, and interactive features
 
 Explore more on the **Projects** tab.
