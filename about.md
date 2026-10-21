@@ -31,7 +31,7 @@ My experience includes API development, automation, data processing, application
 
 I have collaborated on projects within a small development LLC, contributing to backend architecture, authentication workflows, and integration between frontend features and server-side logic. These experiences have helped me develop a broader understanding of how individual components work together in a complete application.
 
-I enjoy building software that solves real problems and can be extended as requirements evolve.
+I enjoy building software that helps me learn more about how computers function, can be used to solve problems, and can be extended as requirements evolve.
 
 ---
 
