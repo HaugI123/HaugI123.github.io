@@ -32,8 +32,6 @@ My contributions include:
 
 **Tech:** Python, Linux, Git
 
-**Status:** In Progress
-
 A custom shell built in Python, based on a staged shell-development workflow. The project has progressed through 76 stages covering command execution, parsing, shell features, and interactive functionality.
 
 Implemented features include:
