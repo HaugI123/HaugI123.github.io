@@ -8,7 +8,7 @@ permalink: /nutritionist-gallery/
 
 A preview of the current interface and features of my full-stack mobile nutrition application. The project is still in development.
 
-[← Back to Projects]({{ '/projects' | relative_url }})
+[Back to Projects]({{ '/projects' | relative_url }})
 
 <div class="app-gallery">
 
