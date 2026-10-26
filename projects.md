@@ -66,7 +66,41 @@ Ongoing work includes adding a probabilistic/learning model to dynamically adjus
 A cross-platform mobile application that provides nutrition tracking, food logs, goals, and user profiles.  
 Designed as a complete full-stack project: backend logic, data handling, and mobile UI integration.
 
-**Repository:** COMING SOON
+### Application Preview
+
+The screenshots below showcase the current state of the application's nutrition tracking interface and selected features. Development is ongoing. 
+
+<div class="app-gallery">
+
+ <a href="{{ '/assets/images/nutritionist/dashboard.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/dashboard.jpeg' | relative_url }}" alt="Daily nutrition dashboard">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/foodDiary.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/food-diary.jpeg' | relative_url }}" alt="Food diary and meal tracking">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/nutrients.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/nutrients.jpeg' | relative_url }}" alt="Detailed nutrient breakdown">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/trackers.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/trackers.jpeg' | relative_url }}" alt="Personal nutrition and hydration trackers">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/recipes.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/recipes.jpeg' | relative_url }}" alt="Custom recipe creation">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/export.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/export.jpeg' | relative_url }}" alt="Nutrition data export feature">
+  </a>
+
+  <a href="{{ '/assets/images/nutritionist/exportedFile.jpeg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/nutritionist/exportedFile.jpeg' | relative_url }}" alt="Showcase of exported file">
+  </a>
+  
+</div>
 
 ---
 
