@@ -70,7 +70,7 @@ Designed as a complete full-stack project: backend logic, data handling, and mob
 
 The application is currently in development. View screenshots of the interface and its features below.
 
-[View App Screenshots ->]({{'/nutritionist-gallery' | relative_url}})
+[View App Screenshots]({{'/nutritionist-gallery' | relative_url}})
 
 ---
 
